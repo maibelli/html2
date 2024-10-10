@@ -1,0 +1,12 @@
+div {
+    border: 2px
+}
+
+.sub{
+    color: purple;
+}
+
+div {
+    border: 2px dotted blue;
+    paddiing: 5px
+}
